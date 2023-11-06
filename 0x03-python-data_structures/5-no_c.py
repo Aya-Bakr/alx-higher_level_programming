@@ -6,3 +6,4 @@ def no_c(my_string):
             ret += my_string[i]
     return ret
 
+
