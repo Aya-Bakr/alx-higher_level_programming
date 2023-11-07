@@ -29,5 +29,3 @@ int aux_palind(listint_t **head, listint_t *end)
 	}
 	return (0);
 }
-
-
