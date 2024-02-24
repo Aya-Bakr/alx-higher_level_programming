@@ -1,1 +1,1 @@
-This repo is for Alx projects
+JavaScript Alx project
